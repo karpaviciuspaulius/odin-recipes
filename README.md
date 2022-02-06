@@ -4,10 +4,11 @@ dedicated for Baltic region traditional cuising.
 
 Website structure:
   - index.html
-  - lithuanian
-    - coldbeetrootsoup.html
-    - potatopancakes.html
-    - zeppelins.html
+  - recipes
+    - lithuanian
+      - coldbeetrootsoup.html
+      - potatopancakes.html
+      - zeppelins.html
   img
     - coldbeetrootsoup.jpeg
     - index-image.jpeg
