@@ -9,7 +9,7 @@ Website structure:
       - coldbeetrootsoup.html
       - potatopancakes.html
       - zeppelins.html
-  img
+  - img
     - coldbeetrootsoup.jpeg
     - index-image.jpeg
     - potatopancakes.jpeg
